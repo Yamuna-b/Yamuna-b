@@ -7,7 +7,7 @@
   <img src="Banner.jpg" alt="Yamuna Banner" width="100%"/>
 </p>
 <p align="center">
-  <b>2nd Year Computer Science & Engineering @ Velammal Engineering College</b><br>
+  <b>2nd Year Computer Science & Engineering</b><br>
   <i>Full Stack Web Developer | UI/UX Designer | Cloud & Generative AI Enthusiast</i>
 </p>
 
