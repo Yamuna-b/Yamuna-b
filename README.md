@@ -1,4 +1,3 @@
-<!-- Banner Section -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35">
   Hi, I'm Yamuna
