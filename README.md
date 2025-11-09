@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <b>3nd Year Computer Science & Engineering</b><br>
-  <i>Full Stack Web Developer | UI/UX Designer | Cloud & Generative AI Enthusiast</i>
+  <i>Aspiring DevOps & Cloud Engineer | Full Stack Enthusiast | Open Source Contributor</i>
 </p>
 
 <!-- Social Badges -->
@@ -24,16 +24,6 @@
 ## 🚀 About Me
 
 > Hello! I'm **Yamuna**, a passionate and creative developer with a love for both coding and design.<br>
-> I enjoy building full stack web applications, designing intuitive user interfaces, and exploring the latest in cloud computing and generative AI.<br>
-> Always eager to learn new technologies and solve real-world problems with code.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **First Prize, Designthon Euphoria’24 (UI/UX)**
-- 🥇 **First Prize, Project Expo Techathon’24 (Advanced Programming)**
-- 🏅 **State Level Idea Contest Winner (IoT & AI)**
 
 ---
 
@@ -133,12 +123,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I love solving real-world problems with code and design, and I'm always up for a challenge that makes a sustainable impact!
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/rutikakengal/rutikakengal/master/assets/code.gif" width="200"/>
 </p>
@@ -153,8 +137,7 @@ I love solving real-world problems with code and design, and I'm always up for a
 
 ## 💡 What's Next?
 
-I'm currently exploring **cloud-native applications, generative AI, and advanced web development**.  
-Looking forward to collaborating on exciting projects and learning new technologies!
+I'm currently exploring **DevOps, cloud-native applications and advanced web development**.  
 
 ---
 <p>
