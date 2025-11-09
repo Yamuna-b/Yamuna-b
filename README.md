@@ -6,7 +6,7 @@
   <img src="Banner.jpg" alt="Yamuna Banner" width="100%"/>
 </p>
 <p align="center">
-  <b>3nd Year Computer Science & Engineering</b><br>
+  <b>3nd Year Computer Science & Engineering Student</b><br>
   <i>Aspiring DevOps & Cloud Engineer | Full Stack Enthusiast | Open Source Contributor</i>
 </p>
 
