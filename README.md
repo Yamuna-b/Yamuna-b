@@ -167,29 +167,6 @@ A placement-preparation platform for skill tracking, practice planning, career r
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Yamuna-b&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Yamuna GitHub statistics"
-  />
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamuna-b&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Yamuna most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Yamuna-b&theme=tokyonight&hide_border=true"
-    alt="Yamuna GitHub contribution streak"
-  />
-</p>
-
----
 
 <p align="center">
   <b>Let’s build something meaningful.</b><br /><br />
