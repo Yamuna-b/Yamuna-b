@@ -35,9 +35,6 @@
   <img src="Banner.jpg" alt="Yamuna B Developer Portfolio Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yamuna-b&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
-</p>
 
 ---
 
