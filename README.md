@@ -1,7 +1,3 @@
-<!-- =========================================================
-     YAMUNA B — CINEMATIC GITHUB PROFILE README
-     ========================================================= -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="46" alt="Waving hand" />
 </p>
@@ -16,39 +12,45 @@
 </p>
 
 <p align="center">
-  <b>Final-Year Computer Science Engineering Student</b><br/>
+  <b>Final-Year Computer Science Engineering Student</b><br />
   <sub>Madurai, Tamil Nadu, India · Open to Software, Backend & Cloud Opportunities</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/Yamuna-b">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/yamuna-bsvy/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yamuna.bsvy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yamuna-b.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://medium.com/@yamuna_b">
-    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
 <p align="center">
-  <img src="Banner.jpg" alt="Yamuna B Developer Portfolio Banner" width="100%"/>
+  <img src="Banner.jpg" alt="Yamuna B Developer Portfolio Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yamuna-b&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yamuna-b&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## `whoami`
+## `about.me`
+
+<table>
+  <tr>
+    <td width="56%" valign="top">
+
+### `whoami`
 
 ```ts
 const yamuna = {
@@ -75,174 +77,126 @@ const yamuna = {
 
 > I transform ideas into real, user-focused software—combining thoughtful UI, reliable backend systems, data, and deployment.
 
+    </td>
+
+    <td width="44%" valign="middle" align="center">
+
+### `contribution.snake`
+
+<img
+  src="https://raw.githubusercontent.com/Yamuna-b/Yamuna-b/output/github-contribution-grid-snake-dark.svg"
+  alt="Animated GitHub contribution snake"
+/>
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## `build.log`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend Systems</h3>
-      <p>Secure APIs, authentication, business logic, data modelling, validation, and reliable service design.</p>
-      <p><code>FastAPI</code> <code>Node.js</code> <code>Express</code> <code>REST</code> <code>JWT</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Products</h3>
-      <p>Responsive, practical web products with clean UX and connected frontend-to-database workflows.</p>
-      <p><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud & DevOps</h3>
-      <p>Containerized applications, automated pipelines, source control, cloud deployment, and developer workflows.</p>
-      <p><code>Docker</code> <code>GitHub Actions</code> <code>AWS</code> <code>Linux</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Applied AI/ML</h3>
-      <p>Classification, clustering, data engineering, visualization, and ML features that solve genuine problems.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Plotly</code></p>
-    </td>
-  </tr>
-</table>
+| Focus area | What I work on |
+|---|---|
+| ⚙️ **Backend Systems** | Secure APIs, authentication, business logic, data modelling, validation, and service design. `FastAPI` `Node.js` `Express` `REST` `JWT` |
+| 🌐 **Full-Stack Products** | Responsive web products with clean UX and connected frontend-to-database workflows. `React` `Next.js` `TypeScript` `PostgreSQL` |
+| ☁️ **Cloud & DevOps** | Containerization, Git workflows, CI/CD, cloud deployment, and automation. `Docker` `GitHub Actions` `AWS` `Linux` |
+| 🧠 **Applied AI/ML** | Classification, clustering, data pipelines, visualization, and useful ML features. `Python` `scikit-learn` `Streamlit` `Plotly` |
 
 ---
 
 ## `tech.stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts&theme=dark" alt="Programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,html,css,tailwind&theme=dark" alt="Frontend and backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,html,css,tailwind&theme=dark" alt="Frontend and backend technologies" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,aws,gcp,linux,git,githubactions&theme=dark" alt="Database cloud and DevOps tools"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,aws,gcp,linux,git,githubactions&theme=dark" alt="Database cloud and DevOps tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
 ---
 
 ## `featured.projects`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💸 MoneyMirror</h3>
-      <p><b>Personal Financial Digital Twin</b></p>
-      <p>
-        A privacy-focused financial planner for simulating future cash flow,
-        goals, EMIs, salary changes, expense changes, and financial risk.
-      </p>
-      <p>
-        <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
-        <code>Docker</code> <code>GitHub Actions</code>
-      </p>
-      <p>
-        <a href="https://github.com/Yamuna-b/Money_Mirror">
-          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MoneyMirror source code"/>
-        </a>
-        <a href="https://yamunabalamurugan-moneymirror.hf.space/">
-          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white" alt="MoneyMirror live demo"/>
-        </a>
-      </p>
-    </td>
+### 💸 MoneyMirror — Personal Financial Digital Twin
 
-    <td width="50%" valign="top">
-      <h3>📡 LogBeacon</h3>
-      <p><b>Log Analysis & Monitoring Platform</b></p>
-      <p>
-        Centralizes structured microservice logs, groups incidents,
-        and provides optional AI-powered debugging summaries.
-      </p>
-      <p>
-        <code>TypeScript</code> <code>React</code> <code>Node.js</code>
-        <code>Express</code> <code>PostgreSQL</code> <code>Prisma</code>
-      </p>
-      <p>
-        <a href="https://github.com/Yamuna-b/LogBeacon">
-          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="LogBeacon source code"/>
-        </a>
-        <a href="https://logbeacon.onslate.in/">
-          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="LogBeacon live demo"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+A privacy-focused financial planner that simulates future cash flow, goals, EMIs, salary changes, expense changes, and financial risk.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 MarineTaxaAI</h3>
-      <p><b>AI-Driven eDNA Species Classification</b></p>
-      <p>
-        An ML pipeline that extracts biological sequence features and predicts
-        marine species with confidence-based novelty detection.
-      </p>
-      <p>
-        <code>Python</code> <code>scikit-learn</code> <code>FastAPI</code>
-        <code>Streamlit</code> <code>Plotly</code>
-      </p>
-      <p>
-        <a href="https://github.com/Yamuna-b/MarineTaxaAi">
-          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MarineTaxaAI source code"/>
-        </a>
-        <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FBBF24?style=for-the-badge&logo=rocket&logoColor=black" alt="MarineTaxaAI live demo coming soon"/>
-      </p>
-    </td>
+`Python` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
 
-    <td width="50%" valign="top">
-      <h3>🚗 Drive2Hire</h3>
-      <p><b>Placement Preparation & Career-Readiness Platform</b></p>
-      <p>
-        A platform concept for placement preparation, skill tracking,
-        practice planning, and helping students become job-ready.
-      </p>
-      <p>
-        <code>React</code> <code>JavaScript</code> <code>Node.js</code>
-        <code>AI/ML</code> <code>Career Tech</code>
-      </p>
-      <p>
-        <a href="https://github.com/Yamuna-b/Drive2Hire">
-          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Drive2Hire source code"/>
-        </a>
-        <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FBBF24?style=for-the-badge&logo=rocket&logoColor=black" alt="Drive2Hire live demo coming soon"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://yamuna-b.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio"/>
+<p>
+  <a href="https://github.com/Yamuna-b/Money_Mirror">
+    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MoneyMirror source code" />
+  </a>
+  <a href="https://yamunabalamurugan-moneymirror.hf.space/">
+    <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white" alt="MoneyMirror live demo" />
   </a>
 </p>
 
 ---
 
-## `experience.highlights`
+### 📡 LogBeacon — Log Analysis & Monitoring Platform
 
-- **Cloud & Full-Stack Web Intern — Reccsar Pvt Ltd · June 2025**  
-  Built a real-time client-support chat widget with authentication, agent assignment, chat history, and live messaging.
+A platform that centralizes structured microservice logs, groups incidents, filters data, and supports optional AI-powered debugging summaries.
 
-- **Web Development Intern — Kevell Corp · December 2024**  
-  Developed responsive web projects including Petimony and RailwayPorterSeva, focusing on clean flows and mobile-friendly UI.
+`TypeScript` `React` `Node.js` `Express` `PostgreSQL` `Prisma`
 
-- **IEEE Author · AIDE 2025**  
-  Published *ECOSAUR: Empowering Sustainable Choices*.
+<p>
+  <a href="https://github.com/Yamuna-b/LogBeacon">
+    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="LogBeacon source code" />
+  </a>
+  <a href="https://logbeacon.onslate.in/">
+    <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="LogBeacon live demo" />
+  </a>
+</p>
 
-- **Recognition**  
-  First Prize — Euphoria’24, Techathon’24, and DesignVerse’26.
+---
 
-- **Certifications**  
-  Harness Certified CD & GitOps Developer · NPTEL Elite in Cloud Computing and Software Testing · NVIDIA Fundamentals of Deep Learning.
+### 🌊 MarineTaxaAI — AI-Driven eDNA Species Classification
+
+An ML pipeline that extracts biological sequence features and predicts marine species with confidence-based novelty detection.
+
+`Python` `scikit-learn` `FastAPI` `Streamlit` `Plotly`
+
+<p>
+  <a href="https://github.com/Yamuna-b/MarineTaxaAi">
+    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MarineTaxaAI source code" />
+  </a>
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FBBF24?style=for-the-badge&logo=rocket&logoColor=black" alt="MarineTaxaAI live demo coming soon" />
+</p>
+
+---
+
+### 🚗 Drive2Hire — Placement Preparation Platform
+
+A placement-preparation platform concept for skill tracking, practice planning, career readiness, and helping students prepare strategically for jobs.
+
+`React` `JavaScript` `Node.js` `AI/ML` `Career Tech`
+
+<p>
+  <a href="https://github.com/Yamuna-b/Drive2Hire">
+    <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Drive2Hire source code" />
+  </a>
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FBBF24?style=for-the-badge&logo=rocket&logoColor=black" alt="Drive2Hire live demo coming soon" />
+</p>
+
+<p align="center">
+  <a href="https://yamuna-b.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -277,46 +231,20 @@ const yamuna = {
 
 ---
 
-## `coding.mode`
-
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/Yamuna_b?ext=contest&theme=dark&border=0&animation=true"
-    alt="LeetCode profile statistics"
-  />
-</p>
-
-<p align="center">
-  <b>Building stronger problem-solving habits through DSA, competitive programming, and placement preparation.</b>
-</p>
-
----
-
 ## `now.loading`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend architecture"/>
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System design"/>
-  <img src="https://img.shields.io/badge/Cloud_Deployment-111827?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud deployment"/>
-  <img src="https://img.shields.io/badge/DSA_&_Java-111827?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA and Java"/>
-  <img src="https://img.shields.io/badge/Applied_AI%2FML-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Applied AI ML"/>
-</p>
-
----
-
-## `final.scene`
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Yamuna-b/Yamuna-b/output/github-contribution-grid-snake-dark.svg"
-    alt="Animated GitHub contribution snake"
-  />
+  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend architecture" />
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System design" />
+  <img src="https://img.shields.io/badge/Cloud_Deployment-111827?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud deployment" />
+  <img src="https://img.shields.io/badge/DSA_&_Java-111827?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA and Java" />
+  <img src="https://img.shields.io/badge/Applied_AI%2FML-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Applied AI ML" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Let’s build something meaningful.</b><br/><br/>
+  <b>Let’s build something meaningful.</b><br /><br />
   <a href="mailto:yamuna.bsvy@gmail.com">📬 Email</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yamuna-bsvy/">💼 LinkedIn</a>
