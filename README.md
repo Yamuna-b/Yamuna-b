@@ -133,42 +133,86 @@ const yamuna = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💸 <a href="https://github.com/Yamuna-b/Money_Mirror">MoneyMirror</a></h3>
+      <h3>💸 MoneyMirror</h3>
       <p><b>Personal Financial Digital Twin</b></p>
-      <p>A finance simulator that models cash flow, salary, savings, EMIs, expenses, runway, and low-balance risk.</p>
+      <p>
+        A finance simulator that models cash flow, salary, savings, EMIs,
+        expenses, runway, and low-balance risk.
+      </p>
       <p>
         <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
         <code>Docker</code> <code>GitHub Actions</code>
       </p>
+      <p>
+        <a href="https://github.com/Yamuna-b/Money_Mirror">
+          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MoneyMirror source code"/>
+        </a>
+        <a href="https://yamunabalamurugan-moneymirror.hf.space/">
+          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="MoneyMirror live demo"/>
+        </a>
+      </p>
     </td>
+
     <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/Yamuna-b/LogBeacon">LogBeacon</a></h3>
+      <h3>📡 LogBeacon</h3>
       <p><b>Log Analysis & Monitoring Platform</b></p>
-      <p>A structured log-analysis system with filtering, search, incident linking, and optional intelligent summaries.</p>
+      <p>
+        A structured log-analysis system with filtering, search,
+        incident linking, and optional intelligent summaries.
+      </p>
       <p>
         <code>TypeScript</code> <code>Node.js</code> <code>Express</code>
         <code>PostgreSQL</code> <code>Prisma</code>
+      </p>
+      <p>
+        <a href="https://github.com/Yamuna-b/LogBeacon">
+          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="LogBeacon source code"/>
+        </a>
+        <a href="https://logbeacon.onslate.in/">
+          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="LogBeacon live demo"/>
+        </a>
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🌊 <a href="https://github.com/Yamuna-b/MarineTaxaAi">MarineTaxaAI</a></h3>
+      <h3>🌊 MarineTaxaAI</h3>
       <p><b>AI-Driven eDNA Species Classification</b></p>
-      <p>An ML pipeline that extracts biological sequence features and predicts marine species with novelty detection.</p>
+      <p>
+        An ML pipeline that extracts biological sequence features and
+        predicts marine species with confidence-based novelty detection.
+      </p>
       <p>
         <code>Python</code> <code>scikit-learn</code> <code>FastAPI</code>
         <code>Streamlit</code> <code>Plotly</code>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏙️ <a href="https://github.com/Yamuna-b/Namma-Oor-Fix">Namma Oor Fix</a></h3>
-      <p><b>Civic Issue Reporting Platform</b></p>
-      <p>A community reporting platform for local civic issues, with authentication, tracking, officer tools, and clustering.</p>
       <p>
-        <code>React</code> <code>Node.js</code> <code>MongoDB</code>
-        <code>JWT</code> <code>Socket.io</code>
+        <a href="https://github.com/Yamuna-b/MarineTaxaAi">
+          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="MarineTaxaAI source code"/>
+        </a>
+        <a href="PASTE_MARINETAXAAI_LIVE_LINK_HERE">
+          <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white" alt="MarineTaxaAI live demo"/>
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🚗 Drive2Hire</h3>
+      <p><b>Placement Preparation & Career-Readiness Platform</b></p>
+      <p>
+        A focused platform concept for placement preparation, skill tracking,
+        practice planning, and helping students move closer to job readiness.
+      </p>
+      <p>
+        <code>React</code> <code>JavaScript</code> <code>Node.js</code>
+        <code>AI/ML</code> <code>Career Tech</code>
+      </p>
+      <p>
+        <a href="https://github.com/Yamuna-b/Drive2Hire">
+          <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Drive2Hire source code"/>
+        </a>
+        <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FBBF24?style=for-the-badge&logo=rocket&logoColor=black" alt="Drive2Hire live demo coming soon"/>
       </p>
     </td>
   </tr>
@@ -179,27 +223,6 @@ const yamuna = {
     <img src="https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/>
   </a>
 </p>
-
----
-
-## `experience.highlights`
-
-- **Cloud & Full-Stack Web Intern — Reccsar Pvt Ltd · June 2025**  
-  Built a real-time client-support chat widget with authentication, agent assignment, history, and live messaging. Contributed to NammaOorFix with dashboards, JWT-based access, and geospatial clustering.
-
-- **Web Development Intern — Kevell Corp · December 2024**  
-  Developed responsive web projects including Petimony and RailwayPorterSeva, focusing on clear user journeys and mobile-friendly UI.
-
-- **IEEE Author · AIDE 2025**  
-  Published *ECOSAUR: Empowering Sustainable Choices*.
-
-- **Recognition**  
-  First Prize — Euphoria’24, Techathon’24, and DesignVerse’26.
-
-- **Certifications**  
-  Harness Certified CD & GitOps Developer · NPTEL Elite in Cloud Computing and Software Testing · NVIDIA Fundamentals of Deep Learning.
-
----
 
 ## `github.telemetry`
 
