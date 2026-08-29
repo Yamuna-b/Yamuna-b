@@ -29,9 +29,6 @@
   <a href="https://yamuna-b.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://medium.com/@yamuna_b">
-    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
 </p>
 
 <p align="center">
@@ -44,13 +41,7 @@
 
 ---
 
-## `about.me`
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-
-### `whoami`
+## About Me
 
 ```ts
 const yamuna = {
@@ -65,47 +56,26 @@ const yamuna = {
     "Practical AI/ML-powered features"
   ],
 
-  currentlyLevelingUp: ["Java", "DSA", "System Design", "Cloud"],
-
   openTo: [
     "Software Developer",
     "Backend Developer",
-    "Cloud / DevOps Intern"
+    "Cloud / DevOps Developer"
   ]
 };
 ```
 
 > I transform ideas into real, user-focused software—combining thoughtful UI, reliable backend systems, data, and deployment.
 
-    </td>
-
-    <td width="44%" valign="middle" align="center">
-
-### `contribution.snake`
-
-<img
-  src="https://raw.githubusercontent.com/Yamuna-b/Yamuna-b/output/github-contribution-grid-snake-dark.svg"
-  alt="Animated GitHub contribution snake"
-/>
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Yamuna-b/Yamuna-b/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+  />
+</p>
 
 ---
 
-## `build.log`
-
-| Focus area | What I work on |
-|---|---|
-| ⚙️ **Backend Systems** | Secure APIs, authentication, business logic, data modelling, validation, and service design. `FastAPI` `Node.js` `Express` `REST` `JWT` |
-| 🌐 **Full-Stack Products** | Responsive web products with clean UX and connected frontend-to-database workflows. `React` `Next.js` `TypeScript` `PostgreSQL` |
-| ☁️ **Cloud & DevOps** | Containerization, Git workflows, CI/CD, cloud deployment, and automation. `Docker` `GitHub Actions` `AWS` `Linux` |
-| 🧠 **Applied AI/ML** | Classification, clustering, data pipelines, visualization, and useful ML features. `Python` `scikit-learn` `Streamlit` `Plotly` |
-
----
-
-## `tech.stack`
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts&theme=dark" alt="Programming languages" />
@@ -128,7 +98,7 @@ const yamuna = {
 
 ---
 
-## `featured.projects`
+## Featured Projects
 
 ### 💸 MoneyMirror — Personal Financial Digital Twin
 
@@ -181,10 +151,7 @@ An ML pipeline that extracts biological sequence features and predicts marine sp
 
 ### 🚗 Drive2Hire — Placement Preparation Platform
 
-A placement-preparation platform concept for skill tracking, practice planning, career readiness, and helping students prepare strategically for jobs.
-
-`React` `JavaScript` `Node.js` `AI/ML` `Career Tech`
-
+A placement-preparation platform for skill tracking, practice planning, career readiness, and helping students prepare strategically for jobs.
 <p>
   <a href="https://github.com/Yamuna-b/Drive2Hire">
     <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Drive2Hire source code" />
@@ -200,45 +167,26 @@ A placement-preparation platform concept for skill tracking, practice planning, 
 
 ---
 
-## `github.telemetry`
+## GitHub Stats
 
 <p align="center">
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api?username=Yamuna-b&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=FBBF24&text_color=C9D1D9"
-    alt="GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Yamuna-b&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="Yamuna GitHub statistics"
   />
   <img
     height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamuna-b&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=C9D1D9"
-    alt="Most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamuna-b&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Yamuna most used languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Yamuna-b&theme=transparent&hide_border=true&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=Yamuna-b&theme=tokyonight&hide_border=true"
+    alt="Yamuna GitHub contribution streak"
   />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yamuna-b&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=FBBF24&area=true&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
-
----
-
-## `now.loading`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Architecture-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend architecture" />
-  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System design" />
-  <img src="https://img.shields.io/badge/Cloud_Deployment-111827?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud deployment" />
-  <img src="https://img.shields.io/badge/DSA_&_Java-111827?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA and Java" />
-  <img src="https://img.shields.io/badge/Applied_AI%2FML-111827?style=for-the-badge&logo=huggingface&logoColor=white" alt="Applied AI ML" />
 </p>
 
 ---
