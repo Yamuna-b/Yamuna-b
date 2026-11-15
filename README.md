@@ -97,7 +97,7 @@ const yamuna = {
 
 ## Featured Projects
 
-### 💸 MoneyMirror — Personal Financial Digital Twin
+### MoneyMirror — Personal Financial Digital Twin
 
 A privacy-focused financial planner that simulates future cash flow, goals, EMIs, salary changes, expense changes, and financial risk.
 
@@ -114,7 +114,7 @@ A privacy-focused financial planner that simulates future cash flow, goals, EMIs
 
 ---
 
-### 📡 LogBeacon — Log Analysis & Monitoring Platform
+### LogBeacon — Log Analysis & Monitoring Platform
 
 A platform that centralizes structured microservice logs, groups incidents, filters data, and supports optional AI-powered debugging summaries.
 
@@ -131,7 +131,7 @@ A platform that centralizes structured microservice logs, groups incidents, filt
 
 ---
 
-### 🌊 MarineTaxaAI — AI-Driven eDNA Species Classification
+### MarineTaxaAI — AI-Driven eDNA Species Classification
 
 An ML pipeline that extracts biological sequence features and predicts marine species with confidence-based novelty detection.
 
@@ -146,7 +146,7 @@ An ML pipeline that extracts biological sequence features and predicts marine sp
 
 ---
 
-### 🚗 Drive2Hire — Placement Preparation Platform
+### Drive2Hire — Placement Preparation Platform
 
 A placement-preparation platform for skill tracking, practice planning, career readiness, and helping students prepare strategically for jobs.
 <p>
